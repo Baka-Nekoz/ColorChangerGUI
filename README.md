@@ -1,4 +1,8 @@
-# **ColorChangerGUI 1.42 is out !**
+# **ColorChangerGUI 1.43 is out !**
+
+Changelogs :
+- Added an Icon !
+
 ### *EN : How to use ColorChangerGUI :*
 
 - Pick an image file (.png, .jpg...)
