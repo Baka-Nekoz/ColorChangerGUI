@@ -1,5 +1,4 @@
 # **ColorChangerGUI 1.44 is out !**
-[Official Website](https://color-changer-gui.ml "Official Website")
 
 Changelogs :
 - Added an Icon !
