@@ -1,4 +1,4 @@
-# **ColorChangerGUI 1.43 is out !**
+# **ColorChangerGUI 1.44 is out !**
 [Official Website](https://color-changer-gui.ml "Official Website")
 
 Changelogs :
