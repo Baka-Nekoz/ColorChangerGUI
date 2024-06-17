@@ -2,6 +2,8 @@
 
 Changelogs :
 - Added an Icon !
+- Deleted the useless English version.
+- Updated the filename to make it easier to run.
 
 ### *EN : How to use ColorChangerGUI :*
 
